@@ -45,6 +45,7 @@ h1 {
     color: rgb(148, 34, 72);
     font-family: fantasy;
     font-size: 50px;
+    margin-top: 15px;
 }
 h2 {
     color:rgb(115, 73, 89);
@@ -53,11 +54,17 @@ p {
     font-size: 15px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+table {
+    border-color: rgb(179,111,137);
+    background-color: rgb(179,111,137);
+}
+td {
+    background-color: rgb(225, 167, 252);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 13px;
+}
 .rund {
     border-radius:300px;
     -moz-border-radius: 100px;
     -webkit-border-radius: 100px
-}
-td {
-    background-color: rgb(214, 127, 255);
 }
